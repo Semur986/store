@@ -15,3 +15,10 @@ div{
     flex-wrap: wrap;
     
 }
+.texno div{
+    margin:7%;
+}
+.tt{
+    width: 230px;
+    height: 200px;   
+}

@@ -3,6 +3,9 @@ h1 {
     font-size: 70px;
     text-align: center;
 }
+body{
+    background: linear-gradient(to bottom, blue, rgb(40, 221, 4), rgb(0, 255, 200));
+}
 img{
     width:200px;
     height: 200px;
